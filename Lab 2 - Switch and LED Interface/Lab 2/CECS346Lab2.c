@@ -40,8 +40,8 @@
 #define SYSCTL_RCGC2_R          (*((volatile unsigned long *)0x400FE108))
 
 // defining constants
-#define LIGHT 		(*((volatile unsigned long *)0x4000501C))   // PORTB, bits 0,1,2
-#define SW 			(*((volatile unsigned long *)0x4002400C))   // PORTE, bits 0,1
+#define LIGHT 		(*((volatile unsigned long *)0x4000501C))       // PORTB, bits 0,1,2
+#define SW 				(*((volatile unsigned long *)0x4002400C))   // PORTE, bits 0,1
 #define SW1_MASK 	0x01           // PE0 -> SW1
 #define SW2_MASK 	0x02           // PE1 -> SW2
 #define RED 		0x04	       // PB2 -> Red LED
