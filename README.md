@@ -1,2 +1,2 @@
 # CECS-346
-CECS 346 with Min He @ CSULB Fall '21
+CECS 346 taught by Min He @ CSULB Fall '21
