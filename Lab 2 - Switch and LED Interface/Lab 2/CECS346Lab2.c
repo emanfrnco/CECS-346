@@ -1,7 +1,7 @@
 // Documentation
 // CECS346 Lab 2 - LED & SWITCH INTERFACE
 // Description: INTERFACING SWITCHES & LEDs
-// Student Name: Dylan Dang
+// Student Name: Emmanuel Franco Hernandez
 
 // Input/Output:
 //   PE0 - SW 1
