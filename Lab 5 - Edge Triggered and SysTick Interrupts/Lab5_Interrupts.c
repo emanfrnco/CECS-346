@@ -1,4 +1,4 @@
-// Name: Dylan Dang
+// Name: Emmanuel Franco
 // Lab5_Interrupts.c
 // Starter file for CECS346 Lab 5
 
